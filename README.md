@@ -9,7 +9,7 @@
 ## 功能
 
 - 增加防撤回开关
-+ 显示已撤回开关
-+[设置-通用]
+  显示已撤回开关
++  [设置-通用]
 
 Refer to [kazutoiris/anti-dingtalk-recall](https://github.com/kazutoiris/anti-dingtalk-recall)
