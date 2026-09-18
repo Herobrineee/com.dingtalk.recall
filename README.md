@@ -1,7 +1,7 @@
 # com.dingtalk.recall
 
 钉钉反撤回神器
-版本号1.12
+版本号1.11
 适配Android17
 适配谷歌8.3.49.3版本(国内版自测)
 ![Anti-996 License](https://img.shields.io/badge/license-Anti--996%20License-blue)
